@@ -14,4 +14,4 @@ Ouvrez un terminal dans ce dossier et lancez :
 node salutation.js Imad
 ```
 
-Le programme affiche un message de bienvenu personnalisé.
+Le programme affiche un message de bienvenue personnalisé.
